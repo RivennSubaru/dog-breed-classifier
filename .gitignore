@@ -1,0 +1,13 @@
+# Fichiers de données
+data/train/
+
+# Modèle entraîné
+*.h5
+
+# Fichiers temporaires Python
+__pycache__/
+*.pyc
+
+# Autres fichiers à ignorer
+*.log
+.DS_Store
